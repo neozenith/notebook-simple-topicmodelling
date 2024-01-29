@@ -1,0 +1,4 @@
+jupyterlab
+invoke
+ruff
+black[jupyter]
