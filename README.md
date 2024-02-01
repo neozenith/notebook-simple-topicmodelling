@@ -16,3 +16,7 @@ python3 -m venv .venv
 .venv/bin/invoke dev
 ```
 
+# TODO:
+
+ - Refactor into cookiecutter template
+ - add instructions for usage
